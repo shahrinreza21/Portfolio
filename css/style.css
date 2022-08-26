@@ -680,6 +680,7 @@ button {
   background-position: center center;
   position: relative;
   background-attachment: fixed;
+  padding: 35px;
   
 }
 .counter_overlay{
