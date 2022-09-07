@@ -169,8 +169,10 @@
     background-position: top;
     background-attachment: fixed;
     background-repeat: no-repeat;
+   
     
   }
+  
   .header {
     display: block;
     height: 100%;
