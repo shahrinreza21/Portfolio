@@ -27,12 +27,11 @@ section{
       rgba(43, 42, 47, 0.7),
       rgba(44, 47, 42, 0.7)
     ),
-    url("../images/headerimg.JPG");
+    url("../images/shahrin.jpg");
   background-size:cover;
-  background-position: top center;
+  background-position:center;
   background-attachment: fixed;
   background-repeat: no-repeat;
-  /* height: 100vh; */
   position: relative;
 }
 .menuBar {
@@ -173,6 +172,7 @@ button {
 }
 .image {
   width: 50%;
+  height: 100%;
 }
 .image img {
   width: 100%;
